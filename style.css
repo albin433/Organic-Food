@@ -21,10 +21,15 @@
     justify-content: space-between;
 }
 
+.flex-row-top-nav-text {
+    display: flex;
+    justify-content: center;
+}
+
 .top-nav-text {
     color: #FFD900;
     font-size: 46;
-    float: left;
+    /* float: left; */
     text-decoration: none;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
